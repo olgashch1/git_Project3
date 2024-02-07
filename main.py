@@ -6,7 +6,7 @@ from PyQt5 import uic
 from PyQt5.QtWidgets import QApplication, QMainWindow, QTableWidgetItem
 
 
-DB_NAME = "coffee.sqlite"
+DB_NAME = "data/coffee.sqlite"
 
 template = """<?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
