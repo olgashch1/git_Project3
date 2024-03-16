@@ -62,11 +62,11 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "Р”РѕР±Р°РІРёС‚СЊ СЃРѕСЂС‚ РєРѕС„Рµ"))
-        self.label.setText(_translate("Form", "РќР°Р·РІР°РЅРёРµ СЃРѕСЂС‚Р°"))
-        self.label_2.setText(_translate("Form", "РћРїРёСЃР°РЅРѕРµ"))
-        self.label_3.setText(_translate("Form", "РњРѕР»РѕС‚С‹Р№  РІ Р·РµСЂРЅР°С…"))
-        self.label_4.setText(_translate("Form", "РЎС‚РѕРёРјРјРѕСЃС‚СЊ"))
-        self.pushButton.setText(_translate("Form", "Р”РѕР±Р°РІРёС‚СЊ"))
-        self.label_5.setText(_translate("Form", "РЎС‚РµРїРµРЅСЊ РѕР±Р¶Р°СЂРєР°"))
-        self.label_6.setText(_translate("Form", "Р Р°Р·РІРµСЃ"))
+        Form.setWindowTitle(_translate("Form", "Сорта кофе"))
+        self.label.setText(_translate("Form", "Название сорта°"))
+        self.label_2.setText(_translate("Form", "Степень обжарки"))
+        self.label_3.setText(_translate("Form", "Мотолый \ в зернах"))
+        self.label_4.setText(_translate("Form", "Вес упаковки"))
+        self.pushButton.setText(_translate("Form", "Добавить"))
+        self.label_5.setText(_translate("Form", "Описание вкуса"))
+        self.label_6.setText(_translate("Form", "Цена"))
